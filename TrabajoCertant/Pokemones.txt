@@ -1,0 +1,10 @@
+Bulbasaur, Planta, Esporas, 5, Salvaje, Ivysaur
+Pikachu, Electrico, Paralizar, 15, Salvaje, Raichu
+Raichu, Electrico, Golpe, 28, Evolucion de Pikachu, No tiene
+Charmander, Fuego, Absorber Fuego, 5, Salvaje, Charmeleon
+Charmeleon, Fuego, Absorber Fuego, 18, Evolucion de Charmander, Charizard
+Charizard, Fuego/Volador, Llamarada, 36, Evolucion de Charmeleon, No tiene
+Ivysaur, Planta/Veneno, Toxico, 18, Evolucion de Bulbasaur, Venusaur
+Venusaur, Planta/Veneno, Toxico, 36, Evolucion de Ivysaur, No tiene
+Growlithe, Fuego, Intimidacion, 18, Salvaje, Arcanine
+Arcanine, Fuego, Velocidad Extrema, 36, Evolucion de Growlithe, No tiene
